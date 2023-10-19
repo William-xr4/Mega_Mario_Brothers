@@ -1,0 +1,22 @@
+.heading{
+    width:95%;
+    /* height:60px; */
+    text-align:left;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+.heading h3{
+    display: inline;
+}
+.bigImg{
+    width:100%;
+}
+.modal-dialog{
+    width:90%;
+}
+.instructionImage{
+    display: inline-block;
+    width:45%;
+}
